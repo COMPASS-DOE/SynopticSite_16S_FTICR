@@ -1,0 +1,121 @@
+﻿SampleID,region,site,transect,tree_number,horizon
+COMPASS.Dec2021.001,WLE,PR,upland,1,A
+COMPASS.Dec2021.002,WLE,PR,upland,2,A
+COMPASS.Dec2021.003,WLE,PR,upland,3,A
+COMPASS.Dec2021.004,WLE,PR,upland,4,A
+COMPASS.Dec2021.005,WLE,PR,upland,5,A
+COMPASS.Dec2021.006,WLE,PR,upland,6,A
+COMPASS.Dec2021.007,WLE,PR,upland,7,A
+COMPASS.Dec2021.008,WLE,PR,upland,8,A
+COMPASS.Dec2021.009,WLE,PR,upland,9,A
+COMPASS.Dec2021.010,WLE,PR,transition,11,A
+COMPASS.Dec2021.011,WLE,PR,transition,12,A
+COMPASS.Dec2021.012,WLE,PR,transition,13,A
+COMPASS.Dec2021.013,WLE,PR,transition,14,A
+COMPASS.Dec2021.014,WLE,PR,transition,16,A
+COMPASS.Dec2021.015,WLE,PR,transition,17,A
+COMPASS.Dec2021.016,WLE,PR,transition,19,A
+COMPASS.Dec2021.017,WLE,PR,transition,20,A
+COMPASS.Dec2021.018,WLE,PR,transition,21,A
+COMPASS.Dec2021.019,WLE,PR,wetland/wetland-transition edge,L1,A
+COMPASS.Dec2021.020,WLE,PR,wetland/wetland-transition edge,L2,A
+COMPASS.Dec2021.021,WLE,PR,wetland/wetland-transition edge,L3,A
+COMPASS.Dec2021.022,WLE,PR,wetland/wetland-transition edge,L4,A
+COMPASS.Dec2021.023,WLE,PR,wetland/wetland-transition edge,L5,A
+COMPASS.Dec2021.024,WLE,PR,wetland/wetland-transition edge,L6,A
+COMPASS.Dec2021.025,WLE,PR,wetland/wetland-transition edge,L7,A
+COMPASS.Dec2021.026,WLE,PR,wetland/wetland-transition edge,L8,A
+COMPASS.Dec2021.027,WLE,PR,wetland/wetland-transition edge,L9,A
+COMPASS.Dec2021.028,WLE,PR,wetland/wetland-transition edge,C1,A
+COMPASS.Dec2021.029,WLE,PR,wetland/wetland-transition edge,C2,A
+COMPASS.Dec2021.030,WLE,PR,wetland/wetland-transition edge,C3,A
+COMPASS.Dec2021.031,WLE,PR,wetland/wetland-transition edge,Ph1,A
+COMPASS.Dec2021.032,WLE,PR,wetland/wetland-transition edge,Ph2,A
+COMPASS.Dec2021.033,WLE,PR,wetland/wetland-transition edge,Ph3,A
+COMPASS.Dec2021.034,WLE,CC,upland,201,A
+COMPASS.Dec2021.035,WLE,CC,upland,202,A
+COMPASS.Dec2021.036,WLE,CC,upland,203,A
+COMPASS.Dec2021.037,WLE,CC,upland,204,A
+COMPASS.Dec2021.038,WLE,CC,upland,205,A
+COMPASS.Dec2021.039,WLE,CC,upland,206,A
+COMPASS.Dec2021.040,WLE,CC,upland,207,A
+COMPASS.Dec2021.041,WLE,CC,upland,208,A
+COMPASS.Dec2021.042,WLE,CC,upland,209,A
+COMPASS.Dec2021.043,WLE,CC,transition,211,A
+COMPASS.Dec2021.044,WLE,CC,transition,212,A
+COMPASS.Dec2021.045,WLE,CC,transition,213,A
+COMPASS.Dec2021.046,WLE,CC,transition,214,A
+COMPASS.Dec2021.047,WLE,CC,transition,215,A
+COMPASS.Dec2021.048,WLE,CC,transition,216,A
+COMPASS.Dec2021.049,WLE,CC,transition,217,A
+COMPASS.Dec2021.050,WLE,CC,transition,218,A
+COMPASS.Dec2021.051,WLE,CC,transition,219,A
+COMPASS.Dec2021.052,WLE,CC,wetland/wetland-transition edge,W1,A
+COMPASS.Dec2021.053,WLE,CC,wetland/wetland-transition edge,W2,A
+COMPASS.Dec2021.054,WLE,CC,wetland/wetland-transition edge,W3,A
+COMPASS.Dec2021.055,WLE,CC,wetland/wetland-transition edge,W4,A
+COMPASS.Dec2021.056,WLE,CC,wetland/wetland-transition edge,W5,A
+COMPASS.Dec2021.057,WLE,CC,wetland/wetland-transition edge,W6,A
+COMPASS.Dec2021.058,WLE,CC,wetland/wetland-transition edge,W7,A
+COMPASS.Dec2021.059,WLE,CC,wetland/wetland-transition edge,W8,A
+COMPASS.Dec2021.060,WLE,CC,wetland/wetland-transition edge,W9,A
+COMPASS.Dec2021.061,WLE,OWC,upland,101,A
+COMPASS.Dec2021.062,WLE,OWC,upland,102,A
+COMPASS.Dec2021.063,WLE,OWC,upland,103,A
+COMPASS.Dec2021.064,WLE,OWC,upland,104,A
+COMPASS.Dec2021.065,WLE,OWC,upland,105,A
+COMPASS.Dec2021.066,WLE,OWC,upland,106,A
+COMPASS.Dec2021.067,WLE,OWC,upland,107,A
+COMPASS.Dec2021.068,WLE,OWC,upland,108,A
+COMPASS.Dec2021.069,WLE,OWC,upland,109,A
+COMPASS.Dec2021.070,WLE,OWC,transition,120,A
+COMPASS.Dec2021.071,WLE,OWC,transition,121,A
+COMPASS.Dec2021.072,WLE,OWC,transition,122,A
+COMPASS.Dec2021.073,WLE,OWC,transition,123,A
+COMPASS.Dec2021.074,WLE,OWC,transition,124,A
+COMPASS.Dec2021.075,WLE,OWC,transition,125,A
+COMPASS.Dec2021.076,WLE,OWC,transition,126,A
+COMPASS.Dec2021.077,WLE,OWC,transition,127,A
+COMPASS.Dec2021.078,WLE,OWC,transition,128,A
+COMPASS.Dec2021.079,WLE,OWC,wetland/wetland-transition edge,W1,A
+COMPASS.Dec2021.080,WLE,OWC,wetland/wetland-transition edge,W2,A
+COMPASS.Dec2021.081,WLE,OWC,wetland/wetland-transition edge,W3,A
+COMPASS.Dec2021.082,WLE,OWC,wetland/wetland-transition edge,W4,A
+COMPASS.Dec2021.083,WLE,OWC,wetland/wetland-transition edge,W5,A
+COMPASS.Dec2021.084,WLE,OWC,wetland/wetland-transition edge,W6,A
+COMPASS.Dec2021.085,WLE,OWC,wetland/wetland-transition edge,W7,A
+COMPASS.Dec2021.086,WLE,OWC,wetland/wetland-transition edge,W8,A
+COMPASS.Dec2021.087,WLE,OWC,wetland/wetland-transition edge,W9,A
+COMPASS.Dec2021.088,WLE,OWC,wetland/wetland-transition edge,WC1,A
+COMPASS.Dec2021.089,WLE,OWC,wetland/wetland-transition edge,WC2,A
+COMPASS.Dec2021.090,WLE,OWC,wetland/wetland-transition edge,WC3,A
+COMPASS.Dec2021.091,WLE,OWC,wetland/wetland-transition edge,WC4,A
+COMPASS.Dec2021.092,WLE,OWC,wetland/wetland-transition edge,WC5,A
+COMPASS.Dec2021.093,WLE,OWC,wetland/wetland-transition edge,WC6,A
+COMPASS.Dec2021.094,WLE,OWC,wetland/wetland-transition edge,WC7,A
+COMPASS.Dec2021.095,WLE,OWC,wetland/wetland-transition edge,WC8,A
+COMPASS.Dec2021.096,WLE,PR,upland,1,B
+COMPASS.Dec2021.097,WLE,PR,upland,2,B
+COMPASS.Dec2021.098,WLE,PR,upland,3,B
+COMPASS.Dec2021.099,WLE,PR,upland,4,B
+COMPASS.Dec2021.100,WLE,PR,upland,5,B
+COMPASS.Dec2021.101,WLE,PR,upland,6,B
+COMPASS.Dec2021.102,WLE,PR,upland,7,B
+COMPASS.Dec2021.103,WLE,PR,upland,8,B
+COMPASS.Dec2021.104,WLE,PR,transition,11,B
+COMPASS.Dec2021.105,WLE,PR,transition,12,B
+COMPASS.Dec2021.106,WLE,CC,upland,202,B
+COMPASS.Dec2021.107,WLE,OWC,upland,101,B
+COMPASS.Dec2021.108,WLE,OWC,upland,105,B
+COMPASS.Dec2021.109,WLE,OWC,upland,106,B
+COMPASS.Dec2021.110,WLE,OWC,upland,107,B
+COMPASS.Dec2021.111,WLE,OWC,upland,108,B
+COMPASS.Dec2021.112,WLE,OWC,transition,120,B
+COMPASS.Dec2021.113,WLE,OWC,transition,121,B
+COMPASS.Dec2021.114,WLE,OWC,transition,122,B
+COMPASS.Dec2021.115,WLE,OWC,transition,123,B
+COMPASS.Dec2021.116,WLE,OWC,transition,124,B
+COMPASS.Dec2021.117,WLE,OWC,transition,125,B
+COMPASS.Dec2021.118,WLE,OWC,transition,126,B
+COMPASS.Dec2021.119,WLE,OWC,transition,127,B
+COMPASS.Dec2021.120,WLE,OWC,transition,128,B
