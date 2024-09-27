@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#SBATCH -A fme200002
+#SBATCH --time 15:00:00
+#SBATCH --nodes 10
+#SBATCH --ntasks-per-node 48
+#SBATCH --job-name bnti_fticr_cb_wetland_allsites_100perm
+#SBATCH --error bnti_fticr_cb_wetland_allsites_100perm-%j.err
+#SBATCH --output bnti_fticr_cb_wetland_allsites_100perm-%j.out
+#SBATCH --mail-user=sreejata.bandopadhyay@pnnl.gov
+#SBATCH --mail-type BEGIN
+#SBATCH --mail-type END
+
+source /etc/profile.d/modules.sh
+module load r/4.4.0
+R CMD BATCH bnti_feature_by_sample_create-nulls_new_within_group_fticr_cb_wetland_100perm.R
