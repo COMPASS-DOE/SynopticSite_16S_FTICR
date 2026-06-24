@@ -8,3 +8,5 @@
 #### Associated data files, as relevant, to reproduce the analysis are uploaded within the "Final_analysis" folder. Other associated files can be found on ESS-DIVE. 
 #### ESS-DIVE citation: Bandopadhyay S ; Danczak R ; Patel K ; Beilsmith K ; Weisenhorn P ; Spanbauer T ; Reichart N ; Weintraub M ; Bailey V (2025): Data for Bandopadhyay et al., "Soil microbial ecology and microbiome-metabolite linkages improve understanding of ecosystem states along terrestrial-aquatic interfaces". COMPASS-FME, ESS-DIVE repository. Dataset. doi:10.15485/2589181 accessed via https://data.ess-dive.lbl.gov/datasets/doi:10.15485/2589181 on 2026-06-24
 
+#### This repository can be cited by finding the latest release version published via GitHub and Zenodo; please see the 'releases' tab to the right of this repository.
+
